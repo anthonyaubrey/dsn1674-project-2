@@ -149,3 +149,19 @@ nav a {
   float: left;
   width: 100%;
 }
+
+.goat {
+  background-color: #222222;
+  color: #fff;
+  clear: left;
+  float: left;
+  width: 100%;
+}
+
+.rooster {
+  background-color: #bc0017;
+  color: #fff;
+  clear: left;
+  float: left;
+  width: 100%;
+}

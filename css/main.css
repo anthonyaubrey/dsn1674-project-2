@@ -32,8 +32,8 @@ header h1 {
   position: absolute;
   width: 100%;
   margin: 0;
-  bottom: 18.37em;
   left: 0em;
+  top: .25em;
   font-weight: bold;
   font-size: 2.25em;
   text-shadow: #222222 1px 3px 2px;
@@ -45,7 +45,7 @@ header h2 {
   width: 100%;
   color: #fff;
   margin: 0;
-  bottom: 54.2em;
+  top: 4.8em;
   left: 0em;
   font-size: 9pt;
   text-shadow: #222222 1px 3px 2px;
@@ -230,4 +230,14 @@ p {
 .oximg {
   float: right;
   width: 50%;
+}
+
+figcaption {
+  text-align: center;
+  font-size: .8em;
+  padding: 2em 0em 1em 0em;
+}
+
+.banner {
+  position: relative;
 }

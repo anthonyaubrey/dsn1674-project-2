@@ -72,7 +72,7 @@ nav ol {
   padding: 0;
   width: 100%;
   margin: 0;
-  list-style: none;
+  list-style-type: none;
 }
 
 .nav-dragon {

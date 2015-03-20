@@ -25,3 +25,16 @@ header img {
   position: relative;
   margin: 0 auto;
 }
+
+header h1 {
+  color: #fff;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  margin: 0;
+  bottom: 18.37em;
+  left: 0em;
+  font-weight: bold;
+  font-size: 2.25em;
+  text-shadow: #222222 1px 3px 2px;
+}

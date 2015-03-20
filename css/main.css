@@ -85,3 +85,17 @@ nav ol {
   float: right;
   width: 50%;
 }
+
+.nav-rooster {
+  float: left;
+  width: 50%;
+  clear: left;
+
+}
+
+.nav-ox {
+  float: right;
+  width: 50%;
+  clear: right;
+
+}

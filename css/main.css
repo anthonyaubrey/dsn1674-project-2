@@ -165,3 +165,23 @@ nav a {
   float: left;
   width: 100%;
 }
+
+.ox {
+  background-color: #e4c22a;
+  clear: left;
+  float: left;
+  width: 100%;
+}
+
+footer {
+  background-color: #222222;
+  color: #fff;
+  clear: left;
+  text-align: center;
+  padding: 2em;
+  font-size: 0.75em;
+}
+
+footer a {
+  text-decoration: underline;
+  color: #fff;

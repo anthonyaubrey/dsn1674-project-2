@@ -90,12 +90,17 @@ nav ol {
   float: left;
   width: 50%;
   clear: left;
-
 }
 
 .nav-ox {
   float: right;
   width: 50%;
   clear: right;
+}
 
+.nav {
+  background-color: #222222;
+  clear: left;
+  float: left;
+  width: 100%;
 }

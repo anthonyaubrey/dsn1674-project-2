@@ -38,3 +38,14 @@ header h1 {
   font-size: 2.25em;
   text-shadow: #222222 1px 3px 2px;
 }
+
+header h2 {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  margin: 0;
+  bottom: 54.2em;
+  left: 0em;
+  font-size: 9pt;
+  text-shadow: #222222 1px 3px 2px;

@@ -211,3 +211,13 @@ p {
   float: right;
   width: 50%;
 }
+
+.r-symbol {
+  float: left;
+  width: 50%;
+}
+
+.roosterimg {
+  float: right;
+  width: 50%;
+}

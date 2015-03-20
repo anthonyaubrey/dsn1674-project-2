@@ -185,3 +185,9 @@ footer {
 footer a {
   text-decoration: underline;
   color: #fff;
+}
+
+p {
+  margin: 1em;
+  font-size: 0.75em;
+}

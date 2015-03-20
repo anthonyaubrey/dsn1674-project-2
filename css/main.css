@@ -142,3 +142,10 @@ nav a {
 .banner img{
   width: 100%;
 }
+
+.dragon {
+  background-color: #e4c22a;
+  clear: left;
+  float: left;
+  width: 100%;
+}

@@ -191,3 +191,13 @@ p {
   margin: 1em;
   font-size: 0.75em;
 }
+
+.d-symbol {
+  float: left;
+  width: 50%;
+}
+
+.dragonimg {
+  float: right;
+  width: 50%;
+}

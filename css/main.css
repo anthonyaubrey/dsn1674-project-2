@@ -49,3 +49,10 @@ header h2 {
   left: 0em;
   font-size: 9pt;
   text-shadow: #222222 1px 3px 2px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.75em;
+}

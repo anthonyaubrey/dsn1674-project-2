@@ -74,3 +74,14 @@ nav ol {
   margin: 0;
   list-style: none;
 }
+
+.nav-dragon {
+  float: left;
+  width: 50%;
+
+}
+
+.nav-goat {
+  float: right;
+  width: 50%;
+}

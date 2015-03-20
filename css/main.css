@@ -221,3 +221,13 @@ p {
   float: right;
   width: 50%;
 }
+
+.ox-symbol {
+  float: left;
+  width: 50%
+}
+
+.oximg {
+  float: right;
+  width: 50%;
+}
